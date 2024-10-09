@@ -19,6 +19,7 @@ Welcome to my LeetCode practice collection! This repository contains my solution
 
 In this repository, you'll find solutions to LeetCode problems across a variety of topics, such as algorithms and data structures. I aim to cover as many problems as possible while focusing on understanding key concepts and improving efficiency in problem-solving.
 
+--- 
 ## Categories
 
 The problems are categorized based on their primary topic:
