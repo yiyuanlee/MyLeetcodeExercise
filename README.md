@@ -62,7 +62,7 @@ I have used the following programming languages to solve the problems:
 
 To clone this repository, run:
 ```bash
-git clone https://github.com/yiyuanlee/MyLeetcodeExcecise.git
+git clone https://github.com/yiyuanlee/MyLeetcodeExercise.git
 ```
 
 --- 
